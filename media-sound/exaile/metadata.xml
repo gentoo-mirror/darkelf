@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+<maintainer type="person">
+	<email>neuron@mail.uni-paderborn.de</email>
+	<description>Primary maintainer</description>
+</maintainer>
+<longdescription>A media player aiming to be similar to AmaroK, but for GTK+.</longdescription>
+<use>
+	<flag name="scrobbler">Enable audioscrobbler/last.fm support.</flag>
+	<flag name="moodbar">Enable moodbar support.</flag>
+</use>
+</pkgmetadata>
