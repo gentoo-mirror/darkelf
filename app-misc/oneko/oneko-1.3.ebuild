@@ -11,8 +11,7 @@ SRC_URI="http://homepages.uni-paderborn.de/neuron/oneko/${P}.txz
 	http://homepages.uni-paderborn.de/neuron/oneko/oneko-dog.png
 	http://homepages.uni-paderborn.de/neuron/oneko/oneko-tora.png
 	http://homepages.uni-paderborn.de/neuron/oneko/oneko-sakura.png
-	http://homepages.uni-paderborn.de/neuron/oneko/oneko-kill-cat.png
-	!bsd-daemon? ( mirror://gentoo/oneko-1.2-sakura-nobsd.patch.bz2 )"
+	http://homepages.uni-paderborn.de/neuron/oneko/oneko-kill-cat.png"
 
 LICENSE="Artistic bsd-daemon? ( bsd-daemon-copyright )"
 SLOT="0"
@@ -35,7 +34,7 @@ S=${WORKDIR}/oneko-${PV}
 src_prepare() {
 	eapply_user
 	if use !bsd-daemon ; then
-		eapply "${WORKDIR}"/oneko-1.2-sakura-nobsd.patch
+		eapply "${FILESDIR}"/oneko-1.3-sakura-nobsd.patch
 	fi
 }
 
