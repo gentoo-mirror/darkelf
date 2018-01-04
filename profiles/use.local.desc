@@ -3,3 +3,4 @@
 # * generated automatically using pmaint *
 
 app-misc/oneko:bsd-daemon - Enables Beastie mascot which is under the bsd-daemon-copyright.
+xfce-extra/xfce4-mixer:keybinder - Enable shortcut support using dev-libs/keybinder
