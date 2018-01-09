@@ -8,5 +8,5 @@ LICENSE=GPL-3
 RDEPEND=net-im/pidgin dev-libs/mini-xml
 SLOT=0
 SRC_URI=https://github.com/gkdr/lurch/archive/15df7636a8f1a8033cc75db670e5191f09c2fe09.tar.gz -> lurch-0.6.5_p1.tar.gz https://github.com/gkdr/libomemo/archive/v0.6.0.tar.gz -> lurch-0.6.5_p1-libomemo-0.6.0.tar.gz https://github.com/gkdr/axc/archive/v0.3.0.tar.gz -> lurch-0.6.5_p1-axc-0.3.0.tar.gz https://github.com/WhisperSystems/libsignal-protocol-c/archive/v2.3.1.tar.gz -> lurch-0.6.5_p1-libsignalc-2.3.1.tar.gz
-_eclasses_=desktop	2ccd1dd1dd7bfb8795eea024a4f91bb6	epatch	8233751dc5105a6ae8fcd86ce2bb0247	estack	43ddf5aaffa7a8d0482df54d25a66a1f	eutils	97ce9decef1ff4b6c5be700283f67343	ltprune	2770eed66a9b8ef944714cd0e968182e	multilib	97f470f374f2e94ccab04a2fb21d811e	toolchain-funcs	885c7d8dd70a58825f3d17e35a3cd1e9
+_eclasses_=desktop	2ccd1dd1dd7bfb8795eea024a4f91bb6	epatch	8233751dc5105a6ae8fcd86ce2bb0247	estack	43ddf5aaffa7a8d0482df54d25a66a1f	eutils	6e7258392d5eda499c1cfa94db650b61	ltprune	2770eed66a9b8ef944714cd0e968182e	multilib	97f470f374f2e94ccab04a2fb21d811e	preserve-libs	ef207dc62baddfddfd39a164d9797648	toolchain-funcs	885c7d8dd70a58825f3d17e35a3cd1e9
 _md5_=cd591b2c116217124d4698f8b95e53b3
