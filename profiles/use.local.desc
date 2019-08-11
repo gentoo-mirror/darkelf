@@ -3,3 +3,6 @@
 # * generated automatically using pmaint *
 
 app-misc/oneko:bsd-daemon - Enables Beastie mascot which is under the bsd-daemon-copyright.
+media-sound/exaile:moodbar - Enable moodbar support.
+media-sound/exaile:scrobbler - Enable audioscrobbler/last.fm support.
+xfce-base/thunar:trash-panel-plugin - Build the trash status indicator plugin for the XFCE panel

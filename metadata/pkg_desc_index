@@ -1,2 +1,9 @@
 app-misc/oneko 1.3: A cat, dog and others which chase the mouse or windows around the screen
+app-portage/darkelf-features 0.1: darkelf-features for gentoo portage
+app-shells/zsh-syntax-highlighting 0.6.0 9999: Fish shell like syntax highlighting for zsh.
+media-plugins/eq10q 2.2: 10-Bands parametric equalizer with mono (M) and stereo (S) versions.
+media-sound/exaile 9999: a media player aiming to be similar to AmaroK, but for GTK+
+net-im/discord-bin 0.0.8: All-in-one voice and text chat for gamers
+sys-apps/spi-tools 0.8.1: Simple command line tools to help using Linux spidev devices.
 x11-plugins/lurch 0.6.5_p1: Implements the OMEMO (XEP-0384) extension for libpurple.
+xfce-base/thunar 1.6.13_p1: File manager for the Xfce desktop environment and queued file transfer patch
