@@ -3,4 +3,3 @@
 # * generated automatically using pmaint *
 
 app-misc/oneko:bsd-daemon - Enables Beastie mascot which is under the bsd-daemon-copyright.
-xfce-base/thunar:trash-panel-plugin - Build the trash status indicator plugin for the XFCE panel

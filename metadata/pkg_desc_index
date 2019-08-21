@@ -4,4 +4,3 @@ app-shells/zsh-syntax-highlighting 0.6.0 9999: Fish shell like syntax highlighti
 media-plugins/eq10q 2.2: 10-Bands parametric equalizer with mono (M) and stereo (S) versions.
 sys-apps/spi-tools 0.8.1: Simple command line tools to help using Linux spidev devices.
 x11-plugins/lurch 0.6.8: OMEMO (XEP-0384) extension for libpurple
-xfce-base/thunar 1.6.13_p1: File manager for the Xfce desktop environment and queued file transfer patch
