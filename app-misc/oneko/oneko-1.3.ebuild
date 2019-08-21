@@ -1,7 +1,7 @@
 # taken from gentoo portage tree
 # updated manually by Simon the Sorcerer
 
-EAPI=6
+EAPI=7
 inherit eutils toolchain-funcs
 
 DESCRIPTION="A cat, dog and others which chase the mouse or windows around the screen"
@@ -26,7 +26,7 @@ DEPEND="
 	x11-misc/gccmakedep
 	x11-misc/imake
 	app-text/rman
-	x11-proto/xextproto
+	x11-base/xorg-proto
 "
 
 S=${WORKDIR}/oneko-${PV}
