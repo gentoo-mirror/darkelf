@@ -2,5 +2,6 @@ app-misc/oneko 1.3: A cat, dog and others which chase the mouse or windows aroun
 app-portage/darkelf-features 0.1: darkelf-features for gentoo portage
 app-shells/zsh-syntax-highlighting 0.6.0 9999: Fish shell like syntax highlighting for zsh.
 media-plugins/eq10q 2.2: 10-Bands parametric equalizer with mono (M) and stereo (S) versions.
+net-dialup/simple-rt 1.2.2: Simple Reverse Tethering utility for Android
 sys-apps/spi-tools 0.8.1: Simple command line tools to help using Linux spidev devices.
 x11-plugins/lurch 0.6.8: OMEMO (XEP-0384) extension for libpurple
