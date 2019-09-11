@@ -5,3 +5,4 @@ media-plugins/eq10q 2.2: 10-Bands parametric equalizer with mono (M) and stereo 
 net-dialup/simple-rt 1.2.2: Simple Reverse Tethering utility for Android
 sys-apps/spi-tools 0.8.1: Simple command line tools to help using Linux spidev devices.
 x11-plugins/lurch 0.6.8: OMEMO (XEP-0384) extension for libpurple
+x11-themes/darkelf-gtk-theme 0.2: A gtk-2/gtk-3/xfce4 theme for working in dark environments.
