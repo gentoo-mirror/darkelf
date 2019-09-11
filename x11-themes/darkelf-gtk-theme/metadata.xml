@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+<maintainer type="person">
+	<email>neuron@mail.uni-paderborn.de</email>
+	<description>Primary maintainer</description>
+</maintainer>
+<longdescription>A gtk-2/gtk-3/xfce4 theme for working in dark environments.</longdescription>
+</pkgmetadata>
