@@ -3,7 +3,7 @@
 
 EAPI=7
 
-DESCRIPTION="darkelf gtk-2/gtk-3/xfce4 themes for working in dark environments."
+DESCRIPTION="darkelf gtk-2/gtk-3/xfwm4 themes for working in dark environments."
 HOMEPAGE="http://homepages.uni-paderborn.de/neuron/gentoo/darkelf/"
 SRC_URI="http://homepages.uni-paderborn.de/neuron/gentoo/darkelf/${P}.txz"
 
@@ -23,7 +23,12 @@ S=${WORKDIR}/darkelf-gtk-themes/
 
 src_install() {
 	insinto /usr/share/themes/
+	doins -r darkelf
 	doins -r darkelf-cinereous
 	doins -r darkelf-mellow
+	doins -r darkelf-golden
+	doins -r darkelf-slytherin
+	doins -r darkelf-laurel
 	doins -r darkelf-glow
+	doins -r darkelf-black
 }
