@@ -8,7 +8,7 @@ HOMEPAGE="http://homepages.uni-paderborn.de/neuron/darkelf/"
 SRC_URI="http://homepages.uni-paderborn.de/neuron/gentoo/darkelf/darkelf-features-bashrc"
 
 LICENSE="Artistic"
-KEYWORDS="~amd64 ~ppc ~ppc64 ~x86"
+KEYWORDS="amd64 ~ppc ~ppc64 x86 arm arm64"
 IUSE=""
 SLOT="0"
 
