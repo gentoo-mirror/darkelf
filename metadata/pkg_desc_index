@@ -1,5 +1,4 @@
 app-misc/darkelf-meta 0.1: The most relevant ebuilds from darkelf repository (meta package)
-app-misc/oneko 1.3: A cat, dog and others which chase the mouse or windows around the screen
 app-portage/darkelf-features 0.1: darkelf-features for gentoo portage
 app-portage/emake 0.3.4: A Shellscript for generating generic .ebuilds.
 app-shells/zsh-syntax-highlighting 0.6.0 9999: Fish shell like syntax highlighting for zsh.
