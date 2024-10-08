@@ -1,7 +1,6 @@
 app-misc/darkelf-meta 0.1: The most relevant ebuilds from darkelf repository (meta package)
 app-portage/darkelf-features 0.1: darkelf-features for gentoo portage
 app-portage/emake 0.3.4: A Shellscript for generating generic .ebuilds.
-app-shells/zsh-syntax-highlighting 0.6.0 9999: Fish shell like syntax highlighting for zsh.
 net-dialup/simple-rt 1.2.2: Simple Reverse Tethering utility for Android
 x11-plugins/lurch 0.6.8: OMEMO (XEP-0384) extension for libpurple
 x11-themes/darkelf-gtk-themes 0.4.1: darkelf gtk-2/gtk-3/xfwm4 themes for working in dark environments.
